@@ -2,13 +2,12 @@
 
 This repository contains the code for a Student Management System, a Java-based application that allows administrators to manage 
 student information within an educational institution. The system provides functionalities for adding, editing, and deleting student 
-records, as well as generating reports.
+records.
 
 ## Features
 - User-friendly interface for easy navigation and interaction.
 - CRUD operations (Create, Read, Update, Delete) to manage student records.
 - Ability to add and update student details, including name, age, gender, and contact information.
-- Option to generate reports based on various criteria, such as student enrollment, gender distribution, and more.
 
 ## Installation
 To run this Student Management System locally, please follow these steps:
